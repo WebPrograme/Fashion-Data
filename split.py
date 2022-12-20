@@ -12,4 +12,4 @@ for i in range(66):
 
     print(i)
     
-    start = (i+1)*clutter_size
+    start = (i+1)*clutter_size 
